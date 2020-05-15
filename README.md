@@ -1,6 +1,6 @@
 # TodoList
 
-> todo list demo
+> todo list demo. the main todo list is located at pages/index.vue
 
 ## Build Setup
 
