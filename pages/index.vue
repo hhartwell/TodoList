@@ -260,13 +260,6 @@ export default {
           complete: true 
         },
         {
-          name: 'Host this project on Heroku',
-          priority: 3,
-          estimatedHours: .5,
-          actualHours: 1,
-          complete:true
-        },
-        {
           name: 'Get Back To Eric',
           priority: 3,
           estimatedHours: .1,
